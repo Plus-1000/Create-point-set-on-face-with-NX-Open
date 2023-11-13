@@ -13,13 +13,13 @@ The steps was automated with this app, select face and input the parameters, the
 <br/>
 
 2. In NX, the point set created along U,V direction of the selected un_trimed face, we can find some points are there within trimed area, next we will calculate the distance to face of each point, if the distance is larger than 0.001 mm, the point will be skipped when export to text file.
-
+<p align="center">
 <img src="https://github.com/Plus-1000/Create-point-set-on-face-and-export-to-txt/blob/main/image-2.png" height="180" align=center>
-
+</p>
 
 
 In this app, use NXOpen.UF.Modeling.AskMinimumDist 
 <br/>
-
+<p align="center">
 <img src="https://github.com/Plus-1000/Create-point-set-on-face-and-export-to-txt/blob/main/image-3.png" height="120" align=center>
-   
+</p>
