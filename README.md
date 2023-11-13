@@ -5,7 +5,7 @@ The steps was automated with this app, select face and input the parameters, the
 <br/>
 ## How it works
 1. Open NX and create point set on face, the process was recorded with NX journal, some simplification is necessary to get it ready to run later. 
-<img src=[C:\Users\CAMPC\Desktop\image.png width="150" height="280"](https://raw.githubusercontent.com/Plus-1000/Create-point-set-on-face-and-export-to-txt/main/image-1.png?token=GHSAT0AAAAAACKHA3EDAHNBLNJAC53ERRACZKR22LA)>
+<img src="https://github.com/Plus-1000/Create-point-set-on-face-and-export-to-txt/assets/67260387/5e063fea-5957-4c24-bbfc-8ebfecb62fdc" height="180">
 
 
  
