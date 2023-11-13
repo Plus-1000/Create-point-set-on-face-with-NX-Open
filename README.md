@@ -4,9 +4,10 @@ Some time you need a point clould of an object for testing porpose, you will hav
 The steps was automated with this app, select face and input the parameters, the point set file will be send to NX part file location with name "exported points.txt"
 <br/>
 ## How it works
-1. Open NX and create point set on face, the process was recorded with NX journal, some simplification is necessary to get it ready to run later. 
+1. Open NX and create point set on face, the process was recorded with NX journal, some simplification is necessary to get it ready to run later.
+<p align="center">
 <img src="https://github.com/Plus-1000/Create-point-set-on-face-and-export-to-txt/assets/67260387/5e063fea-5957-4c24-bbfc-8ebfecb62fdc" height="180" align=center>
-
+</p>
 
  
 <br/>
