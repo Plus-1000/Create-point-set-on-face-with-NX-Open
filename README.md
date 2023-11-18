@@ -20,6 +20,6 @@ The steps was automated with this app, select face and input the parameters, the
 
 In this app, use NXOpen.UF.Modeling.AskMinimumDist 
 <br/>
-<p align="left">
-<img src="https://github.com/Plus-1000/Create-point-set-on-face-and-export-to-txt/blob/main/image-3.png" height="120" align=center>
+<p align="center">
+<img src=https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/image/uf%20used.jpg height="120" >
 </p>
