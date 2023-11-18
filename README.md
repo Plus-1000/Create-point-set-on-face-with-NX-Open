@@ -6,7 +6,7 @@ The steps was automated with this app, select face and input the parameters, the
 ## How it works
 1. Open NX and create point set on face, the process was recorded with NX journal, some simplification is necessary to get it ready to run later.
   <p align="center" height="180">
-  <img src=https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/image/create%20pt%20on%20face.jpg>
+  <img src=https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/image/create%20pt%20on%20face.jpg height="200">
   </p>
 
  
