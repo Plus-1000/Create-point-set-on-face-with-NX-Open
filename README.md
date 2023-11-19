@@ -3,10 +3,6 @@ When we need a point set of a surface for testing purposes, we can create it wit
 
 https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/image/Creating%20points.mp4
 
-https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/assets/67260387/7fedeae0-ddc5-42a8-8167-7374a63a73c2
-
-
-
 The coordinates of the points will be stored in a txt file "exported points.txt", which will be created in the same folder as the NX part file.
 <br/>
 ## How it works
