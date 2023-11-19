@@ -1,7 +1,8 @@
  ## Create points on selected face and export them to text file
-Some time you need a point clould of an object for testing porpose, you will have to get ready the camera and components then proceed.  With this app you may first create solid model or face with NX CADCAM, then generate point set on face and exported their coordinate to a text file.
+ ## Create points on selected face and export them to text file
+When we need a point set of a surface for testing purposes, we can create it within NX CADCAM and then export the points to a txt or csv file. This NX Open script is designed to create a point set on an NX surface with just a few clicks, as demonstrated in the video.
 
-The steps was automated with this app, select face and input the parameters, the point set file will be send to NX part file location with name "exported points.txt"
+The coordinates of the points will be stored in a txt file "exported points.txt", which will be created in the same folder as the NX part file.
 <br/>
 ## How it works
 1. Open NX and create point set on face, the process was recorded with NX journal, some simplification is necessary to get it ready to run later.
