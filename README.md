@@ -5,6 +5,7 @@ https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/ima
 
 The coordinates of the points will be stored in a txt file "exported points.txt", the file
 <br/>
+
 ## How it works
 1. The operation "create point set on face" with NX CADCAM was recorded by NX journal. Some simplification is necessary for it to be run later.
   <p align="center" height="180">
@@ -27,11 +28,21 @@ The coordinates of the points will be stored in a txt file "exported points.txt"
 </p>
 
 <br/>
-## Check point set with Python
 
+## Check point set with Python
 1. Some basic operations with the point set.
 
+<br/>
+<p align="center">
+<img src=https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/image/uf%20used.jpg height="120" >
+</p>
 
-
+<br/>
 
 2. Max and min adjacent distance measurement of a point set, comparing NX versus KDTree calculation.
+<br/>
+<p align="center">
+<img src=https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/image/uf%20used.jpg height="120" >
+</p>
+
+<br/>
