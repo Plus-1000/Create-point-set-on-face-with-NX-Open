@@ -3,6 +3,10 @@ When we need a point set of a surface for testing purposes, we can create it wit
 
 
 
+
+Uploading Creating points.mp4…
+
+
 The coordinates of the points will be stored in a txt file "exported points.txt", the file
 <br/>
 
