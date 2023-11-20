@@ -26,6 +26,7 @@ The NXOpen.UF.Modeling.AskMinimumDist function is used to determine the distance
 <img src=https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/image/uf%20used.jpg height="120" >
 </p>
 ## Some info from points
+
 3. Some basic operations with the point set.
 
 
