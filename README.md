@@ -25,11 +25,13 @@ The coordinates of the points will be stored in a txt file "exported points.txt"
 <p align="center">
 <img src=https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/image/uf%20used.jpg height="120" >
 </p>
+
+<br/>
 ## Check point set with Python
 
-3. Some basic operations with the point set.
+1. Some basic operations with the point set.
 
 
 
 
-4. Max and min adjacent distance measurement of a point set, comparing NX versus KDTree calculation.
+2. Max and min adjacent distance measurement of a point set, comparing NX versus KDTree calculation.
