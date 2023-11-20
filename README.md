@@ -20,7 +20,7 @@ The coordinates of the points will be stored in a txt file "exported points.txt"
 </p>
 
 
-    The NXOpen.UF.Modeling.AskMinimumDist function is used to determine the distance from a point to a face.
+3. The NXOpen.UF.Modeling.AskMinimumDist function is used to determine the distance from a point to a face.
 <br/>
 <p align="center">
 <img src=https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/image/uf%20used.jpg height="120" >
