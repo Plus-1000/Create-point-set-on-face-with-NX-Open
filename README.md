@@ -53,6 +53,5 @@ The coordinates of the points will be stored in a txt file "exported points.txt"
 <img src=https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/image/Min%20max%20adjacent%20dist%20check.jpg length="280" >
 </p>
 
-
-
 <br/>
+Thanks to my colleagues, who generously shared their wealth of knowledge, assisted me with kindness, provided support and advice, and helped me debug codes. For your valuable comments, please email me at wjian88@gmail.com, thank you. 
