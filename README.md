@@ -1,5 +1,5 @@
 ## Create points on selected face and export them to text file
-When we need a point set of a surface for testing purposes, we can create it within NX CADCAM and then export the points to a txt or csv file. This NX Open script is designed to create a point set on an NX surface with just a few clicks, as demonstrated in the video.
+When we need a point set of a surface for testing purposes, we can create it within NX CADCAM and then export the points to a txt or csv file. This NX Open script is designed to create a point set on a NX surface with just a few clicks, as demonstrated in the video.
 
 
 
