@@ -6,7 +6,7 @@ When we need a point set of a surface for testing purposes, we can create it wit
 " target="_blank"><img src="http://img.youtube.com/vi/nmtSOpe3bGA /0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/nmtSOpe3bGA /0.jpg)](http://www.youtube.com/watch?v=nmtSOpe3bGA )
+
 
 
 The coordinates of the points will be stored in a txt file "exported points.txt", it is in the same folder as NX part file.
