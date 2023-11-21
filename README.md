@@ -2,11 +2,7 @@
 When we need a point set of a surface for testing purposes, we can create it within NX CADCAM and then export the points to a txt or csv file. This NX Open script is designed to create a point set on a NX surface with just a few clicks, as demonstrated in the video.
 
 
- <p align="center">
-   [<img src="https://i.ytimg.com/vi/nmtSOpe3bGA/maxresdefault.jpg" width="50%">]
-  (https://www.youtube.com/watch?v=nmtSOpe3bGA "Now in Android: 55")
-
-  </p>
+[![Watch the video](https://img.youtube.com/vi/<nmtSOpe3bGA>/hqdefault.jpg)](https://www.youtube.com/embed/<nmtSOpe3bGA>)
 
 
 The coordinates of the points will be stored in a txt file "exported points.txt", it is in the same folder as NX part file.
