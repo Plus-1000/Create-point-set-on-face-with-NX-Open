@@ -4,7 +4,7 @@ When we need a point set of a surface for testing purposes, we can create it wit
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nmtSOpe3bGA 
 " target="_blank"><img src="http://img.youtube.com/vi/nmtSOpe3bGA /0.jpg" 
-alt="CLICK HERE TO SEE THE MOVIE" width="240" height="180" border="10" /></a>
+alt="THE MOVIE" width="240" height="180" border="10" /></a>
 
 
 
