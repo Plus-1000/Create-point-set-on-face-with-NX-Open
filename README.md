@@ -3,7 +3,8 @@ When we need a point set of a surface for testing purposes, we can create it wit
 
 
  <p align="center">
-   [<img src="https://i.ytimg.com/vi/nmtSOpe3bGA/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=nmtSOpe3bGA "Now in Android: 55")
+   [<img src="https://i.ytimg.com/vi/nmtSOpe3bGA/maxresdefault.jpg" width="50%">]
+  (https://www.youtube.com/watch?v=nmtSOpe3bGA "Now in Android: 55")
 
   </p>
 
